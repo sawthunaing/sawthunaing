@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [A+ Wallet](https://apluswallet.com.mm/)
+- 🔭 I worked on [A+ Wallet](https://apluswallet.com.mm/)
 
 - 🌱 I’m currently learning **Programming Design Pattern, System Architecture and Solution Architecture**
 
 - 👯 I’m looking to collaborate on [A+ Wallet](https://apluswallet.com.mm/)
 
-- 💬 Ask me about **.Net , .Net Core and ASP.net**
+- 💬 Ask me about **.Net , .Net Core, Java and ASP.net**
 
-- 📫 How to reach me **sawthunaing@gmail.com,**
+- 📫 How to reach me **me@sawthunaing.info,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
