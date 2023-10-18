@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Programming Design Pattern, System Architecture and Solution Architecture**
 
-- 👯 I’m looking to collaborate on [A+ Wallet](https://apluswallet.com.mm/)
+- 👯 I’m looking to collaborate on .net Freelance Project.
 
 - 💬 Ask me about **.Net , .Net Core, Java and ASP.net**
 
