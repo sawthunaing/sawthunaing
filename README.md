@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **.Net , .Net Core, Java and ASP.net**
 
-- 📫 How to reach me **me@sawthunaing.info,**
+- 📫 How to reach me **sawthunaing@gmail.com,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
