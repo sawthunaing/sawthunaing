@@ -57,6 +57,8 @@ right_to_work: UK
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saw-thu-naing)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6690733)
+[![Credly](https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/saw-thu-naing.4595b72a/badges#credly)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sawthunaing)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JHCEjEgH)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sawthunaing@gmail.com)
 
@@ -68,9 +70,9 @@ right_to_work: UK
 
 <div align="center">
 
-[![GCP](https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/certification/cloud-architect)
-[![AWS](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-[![Jira](https://img.shields.io/badge/Atlassian-Jira_Fundamentals-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/)
+[![GCP](https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/users/saw-thu-naing.4595b72a/badges#credly)
+[![AWS](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/users/saw-thu-naing.4595b72a/badges#credly)
+[![Jira](https://img.shields.io/badge/Atlassian-Jira_Fundamentals-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.credly.com/users/saw-thu-naing.4595b72a/badges#credly)
 
 </div>
 
