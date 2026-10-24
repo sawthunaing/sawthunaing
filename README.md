@@ -21,8 +21,8 @@
 ```yaml
 name: Saw Thu Naing
 location: London, United Kingdom 🇬🇧
-role: Senior Software Engineer
-experience: 10+ years
+role:  Software Engineer
+experience: 5+ years
 domains:
   - FinTech (payments, digital wallets, core banking)
   - Live sports streaming
